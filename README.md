@@ -45,6 +45,9 @@ A curated list of excellent resources for learning Japanese, covering grammar, v
 - [Popup Japanese Dictionary](https://www.popupjapanesedictionary.com)
   - 💬 Popup Japanese Dictionary app for convenient word lookups on Windows and on Android
 
+- [MangaTranslate](https://www.mangatranslate.com/)
+  - 🖼️ Web-based OCR and translation for Japanese manga pages, with batch image/PDF uploads and an online editor. Limited daily free credits and paid plans; review automatic translations against the original.
+
 ---
 
 🌟 *Contributions are welcome! Feel free to suggest more awesome resources.*
